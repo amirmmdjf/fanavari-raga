@@ -1,0 +1,20 @@
+.bg-main{
+    background-color: #1b2a4e;
+}
+#first{
+    margin-bottom: 5rem;
+    padding: 1rem ;
+    background-color: #f9f9f9;
+    text-align: center; 
+    border-radius: 2rem;
+    box-shadow: -7px 4px 14px -8px rgba(0,0,0,0.75);
+
+}
+#second{
+    padding: 2rem;
+    background-color: #D1E0EF;
+    border-radius: 1rem; 
+}
+.navbar{
+    height: 70px;
+}
